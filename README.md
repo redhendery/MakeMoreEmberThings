@@ -1,3 +1,6 @@
+## Hosted & Deployed Here:
+http://functional-oranges.surge.sh/
+
 # Super-rentals
 
 This README outlines the details of collaborating on this Ember application.
